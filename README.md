@@ -1,4 +1,5 @@
 # Plotting_our_blocks
-<h1>Practice using the flex option</1>
+<h1>Plotting blocks</1>
 
-This is a practice using the code on <a href="https://github.com/Alfredo08/Flexbox-Class-Practice">this</a>
+<p>Practice done using the basic HTML code </p>
+
